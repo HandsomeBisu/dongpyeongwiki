@@ -1,0 +1,17 @@
+/.idea/
+/node_modules/
+/customStatic/
+/publicMin/
+/cache/
+/opennamu_data/
+/skins/*
+/plugins/*
+
+.env
+
+publicConfig.json
+serverConfig.json
+stringConfig.json
+devConfig.json
+
+.DS_Store
